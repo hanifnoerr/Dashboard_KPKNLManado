@@ -1,6 +1,6 @@
 <?php 
  
-class target extends CI_Controller{
+class Target extends CI_Controller{
  
 	function __construct(){
 		parent::__construct();

@@ -1,6 +1,6 @@
 <?php 
  
-class capaian extends CI_Controller{
+class Capaian extends CI_Controller{
  
 	function __construct(){
 		parent::__construct();

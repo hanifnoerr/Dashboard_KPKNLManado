@@ -1,6 +1,6 @@
 <?php 
  
-class dashboard extends CI_Controller{
+class Dashboard extends CI_Controller{
  
 	function __construct(){
 		parent::__construct();
