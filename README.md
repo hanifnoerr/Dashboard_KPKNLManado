@@ -1,6 +1,6 @@
 # Dashboard KPKNLManado
 
-## Tentang
+## About
 
 Aplikasi Dashboard Capaian KPKNL Manado berbasis web
 * Menampilkan persentase rata-rata capaian tiap seksi
@@ -15,6 +15,6 @@ Aplikasi Dashboard Capaian KPKNL Manado berbasis web
    2. Mudah untuk mengganti / mengupdate Target dan Realisasi;
    3. Mudah untuk mengetahui posisi realisasi terhadap target / posisi capaian saat ini;
    
-## Tampilan
+## Preview
 ![Image of dashboard_preview](https://github.com/hanifnoerr/Dashboard_KPKNLManado/blob/master/dashboard.png)
 ![Image of inputan_field](https://github.com/hanifnoerr/Dashboard_KPKNLManado/blob/master/inputan.png)
