@@ -73,7 +73,7 @@
             
 			<input type="text" name="username" class="form-control" placeholder="Username (NIP)">
             <input type="password" name="password" class="form-control" placeholder="Password">
-            <p><a href="#" id="example" data-placement="below" class="text-danger" >&nbsp;Lupa Password? <b>Tanya ke penilaian</b></a></p>
+            <p><a href="#" id="example" data-placement="below" class="text-danger" >&nbsp;Lupa Password? <b>Tanya ke Seksi Lelang</b></a></p>
             <input name="Sign In" class="btn btn-lg btn-danger btn-block" type="submit" value="Login"/>
 
 			
